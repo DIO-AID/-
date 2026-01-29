@@ -124,8 +124,8 @@ Seeking internship/junior position in data analysis, system analysis, or applied
 ## 🔗 Контакты | Contacts
 
 - **Telegram:** [@Dio520](https://t.me/Dio520)
-- **Email:** dionisiy10000@email.com
-- **GitHub:** **
+- **Email:** dionisiy10000@gmail.com
+- **GitHub:** https://github.com/DIO-AID/Portfolio
 - **Местоположение:** Липецк, Россия | Lipetsk, Russia
 
 ---
